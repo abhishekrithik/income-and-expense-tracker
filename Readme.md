@@ -67,3 +67,8 @@ Expense-Tracker/
 │── screenshots/ # Project screenshots (login, dashboard, income, expenses, etc.)  
 │── .gitignore  
 │── README.md
+
+## 🌐 Live Demo
+
+- **Frontend (Vercel):** [https://income-and-expense-tracker-sai.vercel.app/](https://income-and-expense-tracker-sai.vercel.app/)
+- **Backend (Render):** [https://income-and-expense-tracker-4gp3.onrender.com](https://income-and-expense-tracker-4gp3.onrender.com)
