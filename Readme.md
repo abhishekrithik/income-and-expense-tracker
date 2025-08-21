@@ -58,3 +58,12 @@ This app allows users to securely manage their income and expenses, visualize fi
 
 ![Expense Page](./screenshots/expense.png)
 ![Expense Page](./screenshots/expense1.png)
+
+## 📂 Project Structure
+
+Expense-Tracker/  
+│── backend/ # Express + MongoDB API  
+│── frontend/ # React (Vite) app  
+│── screenshots/ # Project screenshots (login, dashboard, income, expenses, etc.)  
+│── .gitignore  
+│── README.md
