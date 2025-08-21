@@ -30,10 +30,31 @@ This app allows users to securely manage their income and expenses, visualize fi
 
 ---
 
-## 📂 Project Structure
+## 🌐 Live Demo
 
-Expense-Tracker/
-│── backend/ # Express + MongoDB API
-│── frontend/ # React (Vite) app
-│── .gitignore
-│── README.md
+🔗 **Deployed App:** [Expense Tracker Live](https://income-and-expense-tracker-sai.vercel.app/)
+
+---
+
+## 📸 Screenshots
+
+### 🔑 Authentication
+
+![Login Page](./screenshots/login.png)
+![Signup Page](./screenshots/signup.png)
+
+### 📊 Dashboard
+
+![Dashboard](./screenshots/dashboard1.png)
+![Dashboard](./screenshots/dashboard2.png)
+![Dashboard](./screenshots/dashboard3.png)
+
+### 💵 Income Management
+
+![Income Page](./screenshots/income.png)
+![Income Page](./screenshots/income1.png)
+
+### 🧾 Expense Management
+
+![Expense Page](./screenshots/expense.png)
+![Expense Page](./screenshots/expense1.png)
