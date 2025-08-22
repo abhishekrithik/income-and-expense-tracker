@@ -50,7 +50,6 @@ const Home = () => {
   },[]);
 
   useEffect(() => {
-  console.log("Dashboard Data:", dashboardData);
   }, [dashboardData]);
 
 
